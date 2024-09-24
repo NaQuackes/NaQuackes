@@ -9,6 +9,17 @@ I like to do serveral things, such as
 - play video games 🎮
 - play sports⚽
 - hangout with my friends!🧑‍🤝‍🧑
+## what does Th3Quack know so far?
+curently I know plently of coding languages including;
+- Javascript
+- Java
+- Python
+- Bashscripting
+- HTML
+- CSS
+- C#
+- C++
+Ofcoarse im not the best in every single one, But I atleast know to basics
 ## What is Th3Quack learning right now?
 I am currently learning cybersecurity!
 ## Pronouns?
