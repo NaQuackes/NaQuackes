@@ -25,5 +25,5 @@ Ofcoarse im not the best in every single one, But I atleast know to basics
 I am currently learning cybersecurity!
 ## Pronouns?
 I dont care about what people call me, as long as im a human being its cool! 🏳️‍🌈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Quacker)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Quacker)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Quacker&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Quacker&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
