@@ -1,5 +1,5 @@
 # Who Is Th3Quacker 🦆
-Th3Quacker one of the animatiors from NaQuackes, They are also known as Charlie AKA ME
+Th3Quacker one of the animatiors from NaQuackes, They are also known as Charlie AKA TheLittleDuck12 AKA ME
 ## What does Th3Quacker like to do
 I like to do serveral things, such as
 - code 💻
