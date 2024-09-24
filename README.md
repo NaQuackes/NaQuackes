@@ -19,6 +19,7 @@ curently I know plently of coding languages including;
 - CSS
 - C#
 - C++
+
 Ofcoarse im not the best in every single one, But I atleast know to basics
 ## What is Th3Quack learning right now?
 I am currently learning cybersecurity!
