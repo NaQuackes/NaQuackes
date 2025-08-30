@@ -1,6 +1,6 @@
-# Who Is Th3Quacker 🦆
-Th3Quacker one of the animatiors from NaQuackes, They are also known as Charlie AKA TheLittleDuck12 AKA ME
-## What does Th3Quacker like to do
+# Who Is NaQuackes 🦆
+NaQuackes one of the animatiors from NaQuackes, They are also known as Charlie AKA TheLittleDuck12 AKA ME
+## What does NaQuackes like to do
 I like to do serveral things, such as
 - code 💻
 - animate🖋️
@@ -9,7 +9,7 @@ I like to do serveral things, such as
 - play video games 🎮
 - play sports⚽
 - hangout with my friends!🧑‍🤝‍🧑
-## what does Th3Quack know so far?
+## what does NaQuackes know so far?
 curently I know plently of coding languages including;
 - Javascript
 - Java
@@ -21,9 +21,9 @@ curently I know plently of coding languages including;
 - C++
   
 Ofcoarse im not the best in every single one, But I atleast know to basics
-## What is Th3Quack learning right now?
+## What is NaQuackes learning right now?
 I am currently learning cybersecurity!
 ## Pronouns?
 I dont care about what people call me, as long as im a human being its cool! 🏳️‍🌈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3Quacker&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Quacker&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaQuackes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaQuackes&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
